@@ -1,3 +1,7 @@
+
+
+[![Watch the video](https://raw.githubusercontent.com/Sinbad-04/VisionCount/main/output_video.mp4)]
+
 **VisionCount** is a Computer Vision project for detecting and counting objects in video streams.  
 The tool processes an input video and produces an output video with bounding boxes and object counts.
 
@@ -63,4 +67,5 @@ python test.py
 ```
 
 The processed video will be saved in the project folder with bounding boxes and object counts overlayed.
+
 
