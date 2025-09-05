@@ -4,6 +4,8 @@
 
 **VisionCount** is a Computer Vision project for detecting and counting objects in video streams.  
 The tool processes an input video and produces an output video with bounding boxes and object counts.
+<img width="1871" height="1045" alt="image" src="https://github.com/user-attachments/assets/b66c021c-613a-47ca-bbf0-8b3beb8d3694" />
+
 
 ---
 
@@ -67,5 +69,6 @@ python test.py
 ```
 
 The processed video will be saved in the project folder with bounding boxes and object counts overlayed.
+
 
 
